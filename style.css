@@ -1,0 +1,48 @@
+.feed{
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 10px auto;  
+    padding: 50px;
+    width: 500px;
+    height: 600px;
+    position: relative;
+    margin-top: 150px;
+}
+.raj{
+    width: 30%;
+    border-radius: 50%;
+    width: 145px;
+    height: 140px;
+    position: absolute;
+    left: 20px;
+}
+
+.name{
+    position: absolute;
+    top: 50px;
+    right: 250px;
+    font-size: 15px;
+}
+
+.handler{
+    color: gray;
+    position: absolute;
+    top: 40px;
+}
+
+.trump{
+    width: 550px;
+    height: 380px;
+    border-radius: 20px;
+    position: absolute;
+    bottom: 100px;
+    left: 20px;
+
+}
+
+.content{
+    position: absolute;
+    bottom: 5px;
+    right: 10px;
+    margin: 10px;
+}
